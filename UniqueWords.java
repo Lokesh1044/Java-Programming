@@ -2,7 +2,7 @@
 // Use this editor to write, compile and run your Java code online
 
 import java.util.*;
-class Unique
+class UniqueWords
   {
     public static void main(String args[])
     {
